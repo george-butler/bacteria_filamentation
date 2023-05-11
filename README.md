@@ -10,13 +10,11 @@
 
 <sup><sup>4</sup>Both authors contributed equally</sup>
 
-![ecoli_filamentation](https://github.com/george-butler/bacteria_filamentation/demo/example_video.avi)
-
 ## Overview
 
 Code and processed data for the manuscript "Filamentous E. coli revelas interplay of cell responses that increases survival against antibiotic stress"
 
-The seperated stages of the segementation pipeline are provided in directories 1_ through 6_ and an example set of raw images are provided in the "demo"" directory "example_images.zip". Each stage of the pipeline should be used sequentially and a brief overview of each stage can be found below. The example images can be used from stage 2 onwards in the pipeline at the output from each stage should be used in the next stage e.g the example images should be used as an input in stage 2 and then the output should be used as an input for stage 3 etc. Finally, the directory "statatical analysis" contains the necessary data and R code to reproduce the results in presented in the manuscript. 
+The seperated stages of the segementation pipeline are provided in directories 1_ through 6_ and an example set of raw images are provided in the "demo" directory "example_images.zip" along with an example video. Each stage of the pipeline should be used sequentially and a brief overview of each stage can be found below. The example images can be used from stage 2 onwards in the pipeline at the output from each stage should be used in the next stage e.g the example images should be used as an input in stage 2 and then the output should be used as an input for stage 3 etc. Finally, the directory "statatical analysis" contains the necessary data and R code to reproduce the results in presented in the manuscript. 
 
 Note: The pipeline is designed to run on a UNIX machine and take advantage of multiple threads where possible. All of the stages *should* run on a Windows machine as well but please be aware that the threaded backend will not work due to the Python Global Interpreter Lock, further information can be found [here](https://joblib.readthedocs.io/en/latest/parallel.html)
 
