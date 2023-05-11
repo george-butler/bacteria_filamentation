@@ -1,4 +1,4 @@
-#E. coli survival in response to ciprofloxacin antibiotic stress correlates with increased nucleoid length and effective misfolded protein management. 
+# E. coli survival in response to ciprofloxacin antibiotic stress correlates with increased nucleoid length and effective misfolded protein management. 
 
 **George Butler<sup>1,4</sup>, Julia Bos<sup>2,3,4</sup>, Robert H. Austin<sup>3</sup>, Sarah R. Amend<sup>1</sup>, Kenneth J. Pienta<sup>1</sup>**
 
