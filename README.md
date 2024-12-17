@@ -10,6 +10,9 @@
 
 <sup><sup>4</sup>Both authors contributed equally</sup>
 
+![quantifying_dispersal_example](/Readme_example_image/segmentation_example.jpg)
+
+
 ## Overview
 
 Code and processed data for the manuscript "Filamentous E. coli revelas interplay of cell responses that increases survival against antibiotic stress", for more information please read our [paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.230338)
