@@ -12,7 +12,7 @@
 
 ## Overview
 
-Code and processed data for the manuscript "Filamentous E. coli revelas interplay of cell responses that increases survival against antibiotic stress"
+Code and processed data for the manuscript "Filamentous E. coli revelas interplay of cell responses that increases survival against antibiotic stress", for more information please read our [paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.230338)
 
 The seperated stages of the segementation pipeline are provided in directories 1_ through 6_ and an example set of raw images are provided in the "demo" directory "example_images.zip" along with an example video. Each stage of the pipeline should be used sequentially and a brief overview of each stage can be found below. The example images can be used from stage 2 onwards in the pipeline at the output from each stage should be used in the next stage e.g the example images should be used as an input in stage 2 and then the output should be used as an input for stage 3 etc. Finally, the directory "statatical analysis" contains the necessary data and R code to reproduce the results in presented in the manuscript. 
 
